@@ -1,0 +1,15 @@
+.nav-link{
+    color: brown;
+    
+}
+
+.list-item{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+    margin: 30px;
+}
